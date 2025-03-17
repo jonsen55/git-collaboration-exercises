@@ -1,2 +1,2 @@
 # git-collaboration-exercises
-hoina holaa, mai ho yo ta
+this to solve merge conflict
